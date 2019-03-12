@@ -1,15 +1,15 @@
 ## BigMart Sales
 
-#### Problem Statement:
+### Problem Statement:
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the **sales of each product** at a particular store.
 
-#### Type of Problem:
+### Type of Problem:
 Regression
 
-#### Dataset:
+### Dataset:
 <https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/>
 
-#### RMSE Values:
+### RMSE Values:
 | Algorithm     |    RMSE Value    | 
 | ------------- |   :-------------:| 
 | SVR           | 1811.49635294211 |
