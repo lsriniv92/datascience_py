@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/lsriniv/datascience_py.svg)](http://hits.dwyl.io/lsriniv/datascience_py)
+
 This repository is intended for data-science beginners.
 It contains solutions (in python) to some of the machine learning projects available on Kaggle and AnalyticsVidhya, right from scrubbing the data to modelling the data.
 
