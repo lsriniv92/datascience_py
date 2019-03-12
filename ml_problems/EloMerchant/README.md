@@ -1,0 +1,13 @@
+## Elo Merchant Category Recommendation
+
+### Problem Statement:
+Elo, one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. It has built machine learning models to understand the most important aspects and preferences in their customers’ lifecycle, from food to shopping. But so far none of them is specifically tailored for an individual or profile. 
+
+The goal here is to identify and serve the most relevant opportunities to individuals, by **uncovering signal in customer loyalty**. Your input will improve customers’ lives and help Elo reduce unwanted campaigns, to create the right experience for customers.
+
+
+### Type of Problem:
+Regression
+
+### Dataset:
+<https://www.kaggle.com/c/elo-merchant-category-recommendation/data>
